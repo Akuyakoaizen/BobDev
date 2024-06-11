@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bobby Jhon Odchigue</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuyakoaizen&label=Profile%20views&color=0e75b6&style=flat" alt="akuyakoaizen" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?q=developer%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&docid=HAR_qp5qQB282M&tbnid=QCZULViz1nWbzM&vet=12ahUKEwibq_Hio9OGAxWYk68BHT7yDKgQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwibq_Hio9OGAxWYk68BHT7yDKgQM3oECBcQAA)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akuyakoaizen" alt="akuyakoaizen" /></a> </p>
 
